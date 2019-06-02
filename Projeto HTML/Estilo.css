@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	font-family: 'Bitter', serif;
+}
+#logo{
+	text-align: center;
+	background-image: url("http://igui-ecologia.s3.amazonaws.com/wp-content/uploads/2015/08/Energia-e%C3%B3lica-no-mar.jpg");
+	background-size: cover;
+	padding: 130px;
+}	
+#rodapé{
+	padding: 30px;
+	background:#0c317a;
+}
+#rodapé a:hover{
+	color:white;
+}
+#rodapé p{
+	color:white;
+}
+#logo h1{
+	color:Blue;
+	text-shadow: 2px 2px 5px black;
+	font-size: 50;
+}
+.Cor{
+	color:white;
+	text-shadow: 2px 2px 5px black;
+}
+.Imagens a{
+	text-decoration: none;
+	color:black;
+}
+.Imagens a:hover{
+	color:black;
+	display:block;
+	border:2px solid #0c317a;
+}
+.Imagens{
+	padding: 50px;
+}
+.Imagens h2,p{
+	font-family: Montserrat, sans-serif;
+}
+.formação{
+	padding: 45px;
+	font-family: Montserrat;
+	color:black;
+	font-size: 17;
+}
+.profissional{
+	font-family: Montserrat;
+	padding: 45px;
+	color:black;
+	font-size: 17;
+}
+.contato{
+	font-family: Montserrat;
+	padding: 45px;
+	color:black;
+	font-size: 17;
+}
+.email{
+	font-family: Montserrat;
+	padding: 45px;
+	color:black;
+	font-size: 17;
+}
+.endereço{
+	font-family: Montserrat;
+	padding: 45px;
+	color:black;
+	font-size: 17;
+}
